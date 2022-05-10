@@ -1,14 +1,12 @@
-# Raspberry Pi Compute Module 4 (CM4) Carrier Template
+# Raspberry Pi Compute Module 4 (CM4) Carrier Board for Capturing DV Footage via Firewire PCIe Card.
 
 ![Rendered example of RPi CM4 Carrier Template PCB](https://raw.githubusercontent.com/ShawnHymel/rpi-cm4-carrier-template/main/images/rpi-cm4-carrier-template-rendered.png)
 
-A template to help you design your own Raspbeery Pi Compute Module 4 carrier board (or daughterboard). The template comes with the CM4 KiCad library and gives an initial placement of Hirose connectors.
+This project aims to be an open source replacement for expensive and closed-source Firewire Capture devices, that anyone can build themselves.
 
-Note that a board outline has been added to be the exact size and shape of the CM4 board. This allows you to keep a neat stackup on your carrier board. However, feel free to mvoe/delete the board outline if you wish to make the carrier board extend beyond the edges of the CM4 (e.g. you wish to add a PCIe connector).
+**NOTE** This project requires KiCad 6 or higher.
 
-**IMPORTANT!** This project require KiCad 6. As KiCad 6 is not out yet, you will need to install a [nightly build of KiCad](https://kicad-downloads.s3.cern.ch/index.html?prefix=windows/nightly/). As a result, you may find bugs in the pre-release of v6.0. Things seem to be working with the 2020-10-29 build for me.
-
-This project uses the CM4 library parts from the IO board KiCad files ([found here](http://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)).
+This project uses the CM4 library parts from the IO board KiCad files ([found here](http://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)). This project used as a starting point ShawnHymel's wonderful carrier board template ([found here](https://github.com/ShawnHymel/rpi-cm4-carrier-template)).
 
 ## License
 
