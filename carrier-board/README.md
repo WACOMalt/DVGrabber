@@ -1,10 +1,12 @@
-# Raspberry Pi Compute Module 4 (CM4) Carrier Board for Capturing DV Footage via Firewire PCIe Card.
+# Raspberry Pi CM4 Carrier Board for Capturing DV Footage via Firewire PCIe Card.
 
 ![Rendered example of RPi CM4 Carrier Template PCB](https://raw.githubusercontent.com/ShawnHymel/rpi-cm4-carrier-template/main/images/rpi-cm4-carrier-template-rendered.png)
 
 This project aims to be an open source replacement for expensive and closed-source Firewire Capture devices, that anyone can build themselves.
 
 **NOTE** This project requires KiCad 6 or higher.
+
+**NOTE** As of this writing, only one type of Firewire card has been tested to work with the CM4 (by someone other than myself). The chipset on the working card was a VT6307 and it had an ASM1083 on it. Once I have more first-hand information about specific working cards this info will be updated with model numbers/purchase links.
 
 This project uses the CM4 library parts from the IO board KiCad files ([found here](http://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)). This project used as a starting point ShawnHymel's wonderful carrier board template ([found here](https://github.com/ShawnHymel/rpi-cm4-carrier-template)).
 
