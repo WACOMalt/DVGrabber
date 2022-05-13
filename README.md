@@ -1,4 +1,4 @@
-# DVGrabber - A Raspberry Pi CM4-powered project for cheaper DV footage grabbing. [NOT IN A WORKING STATE - WORK IN PROGRESS]
+# DVGrabber - A Raspberry Pi CM4-powered device for cheaper DV footage grabbing. [NOT IN A WORKING STATE - WORK IN PROGRESS]
 
 **Project Description:**
     So, DV footage is kinda like, hard to record sometimes. You gotta get a firewire card, or a DV deck, get drivers for the old tech working on your machine, find capture software, and then depend on it all being actually reliable (which it rarely is). So, with professional Firewire recording devices costing upwards of $600 dollars… I figured it’s time we make something more accessible. Backing up your old memories, or enjoying the use of old tech should be open and free. Every aspect of this project will be documented and available for free. We will likely sell some of our completed PCBs once they’re produced, at cost.
