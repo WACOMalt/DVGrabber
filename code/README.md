@@ -1,6 +1,13 @@
 # DVGrabber device code
 
-Here is where device specific code for the DVGrabber will exist, once it exists.
+Here is the very WIP code for the DVGrabber. Currently this is just dvgrabber.py, a blockout for the OLED display interface for v3 (which is a long ways off).
+
+dvgrabber.py pre-requisites:
+
+ - Linux, Sorry cant test on windows at the moment. Its a console Text User Interface (TUI) program and the Pi CM4 will be running linux, so its currently tailored for that.
+ - python 3.7 or higher
+ - PicoTUI library
+```pip install picotui```
 
 ## License
 

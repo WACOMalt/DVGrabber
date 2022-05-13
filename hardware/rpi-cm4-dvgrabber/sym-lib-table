@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/WACOMalt/Documents/KiCad/DVGrabber/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "Legacy")(uri "C:/Users/WACOMalt/Documents/KiCad/DVGrabber/hardware/libraries/USB4105-GF-A/USB4105-GF-A.lib")(options "")(descr ""))
+  (lib (name "SMBJ5-0A-TR")(type "Legacy")(uri "C:/Users/WACOMalt/Documents/KiCad/DVGrabber/hardware/libraries/SMBJ5-0A-TR/SMBJ5-0A-TR.lib")(options "")(descr ""))
+  (lib (name "5035000991")(type "Legacy")(uri "C:/Users/WACOMalt/Documents/KiCad/DVGrabber/hardware/libraries/5035000991/5035000991.lib")(options "")(descr ""))
+  (lib (name "10018783-11200TLF")(type "Legacy")(uri "C:/Users/WACOMalt/Documents/KiCad/DVGrabber/hardware/libraries/10018783-11200TLF/10018783-11200TLF.lib")(options "")(descr ""))
+)
