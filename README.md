@@ -3,7 +3,7 @@
 **Project Description:**
     So, DV footage is hard to record sometimes. You have to get a firewire card, or a DV deck, get drivers for the old tech working on your machine. You have to find capture software, and then depend on it all being actually reliable (which it rarely is). So with professional Firewire recording devices costing upwards of $600 dollars… I figured it’s time we make something more accessible. Backing up your old memories, or enjoying the use of old tech should be open and free. 
     
-Every aspect of this project will be documented and available for free. We will likely sell some of our completed PCBs once they’re produced, at cost.
+Every aspect of this project will be documented and available for free. We will likely sell some of our completed PCBs once they’re produced, at cost. But every part of this should be reproducible with the files in this repo.
 
 So what do you actually need to record from DV camcorders? Well… you need a computer, you need a firewire interface for that computer, and you need a DV/Firewire cord.  These days a computer can fit in the footprint of a credit card, so that’ll be our choice for this project. The **Raspberry Pi CM4** is a tiny little computer with the ability to run PCI Express interface cards.
 
