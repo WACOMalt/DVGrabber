@@ -7,7 +7,7 @@ Every aspect of this project will be documented and available for free. We will 
 
 So what do you actually need to record from DV camcorders? Well… you need a computer, you need a firewire interface for that computer, and you need a DV/Firewire cord.  These days a computer can fit in the footprint of a credit card, so that’ll be our choice for this project. The **Raspberry Pi CM4** is a tiny little computer with the ability to run PCI Express interface cards.
 
-**T**he completed project will consist of the following**
+**The completed project will consist of the following**
 
  - A Raspberry Pi Compute Module 4, running a lightened kernel
  - A Custom PCB carrier board for the CM4, which will provide the storage interface (SD Card slot) and the PCIe expansion slot. As well as several other needed features (power delivery, LED status lights, maybe an OLED screen eventually)
